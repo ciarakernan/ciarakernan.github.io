@@ -1,5 +1,5 @@
 ---
-title: "Ciara E. Kernan"
+title: "About"
 ---
 
-Hello, world!
+I'm a PhD student at Dartmouth College. I study the behavior of crickets and katydids. 
