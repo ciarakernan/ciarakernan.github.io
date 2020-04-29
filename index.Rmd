@@ -1,5 +1,7 @@
 ---
-title: "About"
 ---
 
-I'm a PhD student at Dartmouth College. I study the behavior of crickets and katydids. 
+<img src="images/ciara_stickinsect_oval.png" style="width:25%; margin-left:-100px; margin-top:30px"; align="left">
+
+<br>
+I'm a PhD candidate at Dartmouth College in the [Ecology, Evolution, Ecosystems & Society graduate program](https://sites.dartmouth.edu/EEES/). I study the signaling behavior of crickets and katydids. 

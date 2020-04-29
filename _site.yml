@@ -3,9 +3,21 @@ output_dir: "."
 navbar:
   title: "Ciara E. Kernan"
   left:
-    - text: "Home"
+    - text: "About"
       href: index.html
     - text: "Publications"
       href: publications.html
     - text: "CV"
       href: CV.html
+  right:
+    - text: "Twitter"
+      href: https://twitter.com/ciaropteran
+    - text: "Google Scholar"
+      href: https://scholar.google.com/citations?hl=en&pli=1&user=-q1v5uoAAAAJ
+    - text: "ORCID"
+      href: https://orcid.org/0000-0001-6820-5983
+    
+    
+output:
+  html_document:
+    css: style.css
