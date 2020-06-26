@@ -8,14 +8,15 @@ navbar:
     - text: "Publications"
       href: publications.html
     - text: "CV"
-      href: CV.html
+      href: Kernan_CV_June2020.pdf
+      
   right:
     - text: "Twitter"
       href: https://twitter.com/ciaropteran
     - text: "Google Scholar"
       href: https://scholar.google.com/citations?hl=en&pli=1&user=-q1v5uoAAAAJ
-    - text: "ORCID"
-      href: https://orcid.org/0000-0001-6820-5983
+      #text: "ORCID"
+      #href: https://orcid.org/0000-0001-6820-5983
     
     
 output:

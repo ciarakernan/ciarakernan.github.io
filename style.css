@@ -27,9 +27,15 @@ h6 {
 }
 img {
     display: block;
-    margin: auto;
+    margin: 50px;
 }
 
 img-circle {
     border-radius: 50%;
+}
+
+body {
+  color: black;
+  border-radius:3px;
+  padding-left:3px;
 }

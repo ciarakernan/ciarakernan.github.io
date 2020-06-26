@@ -1,7 +1,9 @@
 ---
 ---
 
-<img src="images/ciara_stickinsect_oval.png" style="width:25%; margin-left:-100px; margin-top:30px"; align="left">
+<img src="images/ciara_stickinsect_oval.png" style="width:25%; margin-left:-150px; margin-top:30px"; align="left">
 
 <br>
-I'm a PhD candidate at Dartmouth College in the [Ecology, Evolution, Ecosystems & Society graduate program](https://sites.dartmouth.edu/EEES/). I study the signaling behavior of crickets and katydids. 
+I'm a PhD candidate in the [Ecology, Evolution, Ecosystems & Society graduate program](https://sites.dartmouth.edu/EEES/) at Dartmouth College. I study the signaling behavior of crickets and katydids. 
+
+Animals use diverse strategies to communicate with each other, with crickets and katydids forming a group of insects that employ sound (and sometimes other types of signals) to attract the attention of potential mates. I study variation in the communication strategies of these insects. My work involves recording sound and vibrational calls from tropical species of both crickets and katydids; quantifying differences in call properties within an individual over time, between individuals, and between species; and testing the behavior of calling animals and their audiences under different conditions, such as when predators are present or absent.
