@@ -5,10 +5,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
 
 I'm a PhD candidate in the [Ecology, Evolution, Ecosystems & Society graduate program](https://sites.dartmouth.edu/EEES/) at Dartmouth College. I study the signaling behavior of crickets and katydids. 
 
@@ -18,4 +14,4 @@ Animals use diverse strategies to communicate with each other, with crickets and
 <br>
 <br>
 
-<img src="images/mimetica_baby.png" style="width:90%; margin-right:-200px; margin-top:5px"; align="right">
+<img src="images/mimetica_baby.png" style="width:90%; margin-right:-100px; margin-top:5px"; align="center">
