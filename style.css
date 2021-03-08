@@ -38,10 +38,12 @@ body {
   color: black;
   border-radius:3px;
   padding-left:3px;
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-size: 16px
 }
 
 p {
    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+   font-size: 16px
 }
 
