@@ -9,6 +9,8 @@ navbar:
       href: publications.html
     - text: "CV"
       href: Kernan_CV_May2021.pdf
+    - text: "Testing this"
+      href: Testpaper2 copy.html
       
   right:
     - text: "Insect photos"
