@@ -53,7 +53,7 @@ p {
 
 /* A link that has not been visited */
 a:link {
-    color: green;
+    color: rgb(0, 102, 51);
 }
 /* A link that has been visited */
 a:visited {
