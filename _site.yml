@@ -8,9 +8,11 @@ navbar:
     - text: "Publications"
       href: publications.html
     - text: "CV"
-      href: Kernan_CV_Oct2020.pdf
+      href: Kernan_CV_May2021.pdf
       
   right:
+    - text: "Insect photos"
+      href: https://www.flickr.com/photos/greatest_auk/albums/72157702306923552
     - text: "Twitter"
       href: https://twitter.com/ciaropteran
     - text: "Google Scholar"
