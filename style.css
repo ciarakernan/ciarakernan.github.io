@@ -53,15 +53,15 @@ p {
 
 /* A link that has not been visited */
 a:link {
-    color: rgb(0, 102, 51);
+    color: darkgreen;
 }
 /* A link that has been visited */
 a:visited {
-    color: blue;
+    color: mediumseagreen;
 }
 /* A link that is hovered on */
 a:hover {
-    color: blue;
+    color: mediumseagreen;
 }
 
 /*"Palatino Linotype", "Book Antiqua", Palatino, serif;
