@@ -13,4 +13,4 @@ Animals use diverse strategies to communicate with each other, with crickets and
 <br>
 <br>
 
-<img src="images/mimetica_baby.png" style="width:90%; margin-right:-100px; margin-top:5px"; align="center">
+<img src = "images/mimetica_baby.png">
