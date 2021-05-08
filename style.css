@@ -57,11 +57,11 @@ a:link {
 }
 /* A link that has been visited */
 a:visited {
-    color: mediumseagreen;
+    color: darkgreen;
 }
 /* A link that is hovered on */
 a:hover {
-    color: mediumseagreen;
+    color: darkgreen;
 }
 
 /*"Palatino Linotype", "Book Antiqua", Palatino, serif;
