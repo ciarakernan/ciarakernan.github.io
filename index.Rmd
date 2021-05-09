@@ -13,6 +13,5 @@ Contact: ciara.e.kernan.gr@dartmouth.edu
 
 
 <br>
-<br>
 
 <img src = "images/mimetica_baby.png">
