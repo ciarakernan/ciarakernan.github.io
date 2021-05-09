@@ -1,10 +1,4 @@
----
-output: html
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+<br>
 
 ## Current projects
 <br>
@@ -35,7 +29,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 -----
 ## Past projects
-### 2020
+<br>
 
 + Why don't tropical katydids stop calling when they hear bats? | [Publication in Proceedings of the Royal Academy B](https://doi.org/10.1098/rspb.2020.1212) 
 
