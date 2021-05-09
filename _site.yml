@@ -5,8 +5,8 @@ navbar:
   left:
     - text: "About"
       href: index.html
-    - text: "Publications"
-      href: publications.html
+    - text: "Research"
+      href: Research_V2.html
     - text: "CV"
       href: Kernan_CV_May2021.pdf
       
