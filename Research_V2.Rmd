@@ -1,0 +1,44 @@
+---
+output: html
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Current projects
+<br>
+
+<div class = "row">
+
+<div class = "col-sm-4">
+<div style="text-align: center"> 
+[**Deciphering unusual cricket duets**](Blank.html)
+</div>
+
+
+</div>
+<div class = "col-sm-4">
+<div style="text-align: center"> 
+[**Effects of mating on katydid signals**](Blank.html)
+</div>
+
+</div>
+<div class = "col-sm-4">
+<div style="text-align: center"> 
+[**iNaturalist users as proxy predators?**](Blank.html)
+</div>
+
+</div>
+</div>
+
+
+-----
+## Past projects
+### 2020
+
++ Why don't tropical katydids stop calling when they hear bats? | [Publication in Proceedings of the Royal Academy B](https://doi.org/10.1098/rspb.2020.1212) 
+
++ Testing whether walking or signaling is more dangerous than staying still | [Publication in Biology Letters](http://dx.doi.org/10.1098/rsbl.2019.0837)
+
+
