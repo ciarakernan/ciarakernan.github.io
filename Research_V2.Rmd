@@ -31,6 +31,8 @@
 ## Past projects
 <br>
 
++ Daily number of calls and the length of each call are related in tropical katydids -- and may also depend on the mate-searching strategy employed by each species. | [Publication in Integrative and Comparative Biology](https://academic.oup.com/icb/advance-article-abstract/doi/10.1093/icb/icab138/6302383)
+
 + Why don't tropical katydids stop calling when they hear bats? | [Publication in Proceedings of the Royal Academy B](https://doi.org/10.1098/rspb.2020.1212) 
 
 + Testing whether walking or signaling is more dangerous than staying still | [Publication in Biology Letters](http://dx.doi.org/10.1098/rsbl.2019.0837)
